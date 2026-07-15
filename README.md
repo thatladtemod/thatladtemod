@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧠 Computer Science and Frontend Engineering Student
+🧠 Computer Science Student
 
 
 ## 🌐 Socials:
